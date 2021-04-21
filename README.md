@@ -66,5 +66,4 @@ Build your code according to the RFC.
 
 # Wireshark
 
-Wireshark is the simplest method to make sure you're at least emitting TFTP packets, the packet type will appear as TFTP if your packets are correctly formatted. This is the first good sign you're on the right track.
-TFTP Software
+Wireshark is the simplest method to make sure you're at least emitting TFTP packets, the packet type will appear as TFTP if your packets are correctly formatted. 
